@@ -6,4 +6,22 @@
 ###### h6
 Adição de headers
 
-![archcraft os image](https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/openbox/main.png)
+Archcraft Image
+![archcraft-os](https://raw.githubusercontent.com/archcraft-os/misc-files/main/screenshots/openbox/main.png)
+
+Code exemplo
+
+```shell
+#!/bin/bash
+message="Hello World!!"
+echo $message
+```
+
+``` python
+import os
+import requests
+
+number1 = 5
+number2 = 3
+print(f"A soma entre, {number1} e {number2} é: {number1 + number2}")
+```
